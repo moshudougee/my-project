@@ -1,2 +1,0 @@
-username: "denis"
-password: "denzel2023"
