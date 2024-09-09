@@ -2,3 +2,5 @@ Get the user data...
 Process user data..
 Include additional information
 for another version
+
+Create user avatar..
