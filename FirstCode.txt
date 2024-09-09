@@ -1,3 +1,7 @@
 Hello World!!
 High people!!
 Hi fellas!!
+Take more input and continue
+wahallaaa!!
+
+Send information to the database.
